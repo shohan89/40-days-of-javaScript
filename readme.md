@@ -1,1 +1,1 @@
-# Day 02 of 40 Days of JavaScript
+# Day 03 of 40 Days of JavaScript
