@@ -1,1 +1,1 @@
-# Day 06 of 40 Days of JavaScript
+# Day 07 of 40 Days of JavaScript
